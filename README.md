@@ -13,7 +13,7 @@ My name is Jay Lariba, I'm an Information Technology student passionate about bu
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,cs,php,python,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java,cs,php,python,js,mysql" />
 
 ### Tools & Technologies
 <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,bootstrap,pycharm" />
