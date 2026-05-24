@@ -1,7 +1,6 @@
+
 <div align="left">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=FFFFFF&vCenter=true&width=700&lines=Jay+Lariba;Information+Technology+Student;Building+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&color=FFFFFF&vCenter=true&width=700&lines=Jay+Lariba;Information+Technology+Student;Building+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 
@@ -9,18 +8,16 @@
 My name is Jay Lariba, I'm an Information Technology student passionate about building modern applications and websites. Currently, I'm exploring various programming languages and frameworks to broaden my skills.
 
 
+### Tech Stack
 
-## Tech Stack
+<div align="left">
 
-<div align="center">
+### Languages
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,cs,php,python,js,html,css,mysql" />
 
-<img src="https://skillicons.dev/icons?i=cs,php,python,js,html,css,mysql" />
-
-### ⚙️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bootstrap,xampp" />
-
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,bootstrap,pycharm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48"/>
 </div>
 
