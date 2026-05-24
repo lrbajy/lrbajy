@@ -3,11 +3,11 @@
 
 
 ##
-💻 My name is Jay Lariba, I'm an Information Technology student passionate about building modern applications and websites. Currently, I'm exploring various programming languages and frameworks to broaden my skills.
+My name is Jay Lariba, I'm an Information Technology student passionate about building modern applications and websites. Currently, I'm exploring various programming languages and frameworks to broaden my skills.
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -20,15 +20,4 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,bootstrap,xampp" />
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrbajy&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrbajy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 
