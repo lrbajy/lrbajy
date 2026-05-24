@@ -15,7 +15,7 @@ My name is Jay Lariba, I'm an `Information Technology Student` passionate about 
 <img src="https://skillicons.dev/icons?i=cpp,java,cs,php,python,js,mysql" />
 
 ### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,bootstrap,pycharm" />
+<img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,bootstrap,pycharm,arduino" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48"/>
 </div>
 
