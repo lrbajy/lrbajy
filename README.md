@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00C2FF&vCenter=true&width=700&lines=Jay+Lariba;Information+Technology+Student;Building+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=FFFFFF&vCenter=true&width=700&lines=Jay+Lariba;Information+Technology+Student;Building+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
